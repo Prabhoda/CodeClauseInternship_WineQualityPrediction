@@ -3,7 +3,7 @@ Wine quality prediction is a task that uses machine learning to assess and forec
 
 Some of the chemical properties that affect the quality of wine are:
 
-Fixed acidity: The amount of non-volatile acids in wine, such as tartaric, malic, and citric acids.
+Fixed acidity: The amount of non-volatile acids in wine, such as tartaric, malic, and citric acids.\n
 Volatile acidity: The amount of gaseous acids in wine, such as acetic acid.
 Residual sugar: The amount of sugar left after fermentation.
 Citric acid: A weak organic acid that is found in citrus fruits and adds freshness to wine.
